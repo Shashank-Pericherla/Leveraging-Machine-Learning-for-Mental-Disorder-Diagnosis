@@ -1,0 +1,9 @@
+python 3.12.2
+pandas 2.2.2
+numpy 1.26.3
+sklearn 1.4.1.post1
+matplotlib 3.8.3
+seaborn 0.13.2
+xgboost 2.1.0
+lightgbm 4.4.0
+imblearn 0.12.0
