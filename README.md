@@ -54,7 +54,9 @@ Mental disorders affect a significant portion of the population, and accurate di
 ## Conclusion
 This project investigates the potential of using EEG signals for mental disorder diagnosis through machine learning. By exploring this approach, we may contribute to the development of more objective and accessible tools for mental health assessment.
 
-
+## Future Work
+* Exploring techniques to address any class imbalances or biases in the dataset could further enhance the performance of the model.
+* Furthermore, investigating the generalizability of the model to unseen data from different sources or time periods would provide insights into its real-world applicability.
 
 ## Citations: 
 * Dataset Source: Park, S. M. (2021, August 16). EEG machine learning. Retrieved from osf.io/8bsvr
