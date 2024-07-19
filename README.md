@@ -44,12 +44,12 @@ Mental disorders affect a significant portion of the population, and accurate di
 ## Results  
 
 ### LightGBM:
-![Alt text](images/LightGBM Training and Validation Loss Plot.png)
-![Alt text](images/LightGBM Classification Report.png)
+![Alt text]([images/LightGBM Training and Validation Loss Plot.png](https://github.com/Shashank-Pericherla/Leveraging-Machine-Learning-for-Mental-Disorder-Diagnosis/blob/main/Results/LightGBM%20Training%20and%20Validation%20Loss%20Plot.png))
+![Alt text]([images/LightGBM Classification Report.png](https://github.com/Shashank-Pericherla/Leveraging-Machine-Learning-for-Mental-Disorder-Diagnosis/blob/main/Results/LightGBM%20Classification%20Report.png))
 
 ### XGboost:
-![Alt text](images/XGBoost Training and Validation Loss Plot.png)
-![Alt text](images/XGBoost Classification Report .png)
+![Alt text]([images/XGBoost Training and Validation Loss Plot.png](https://github.com/Shashank-Pericherla/Leveraging-Machine-Learning-for-Mental-Disorder-Diagnosis/blob/main/Results/XGBoost%20Training%20and%20Validation%20Loss%20Plot.png))
+![Alt text]([images/XGBoost Classification Report .png](https://github.com/Shashank-Pericherla/Leveraging-Machine-Learning-for-Mental-Disorder-Diagnosis/blob/main/Results/XGBoost%20Classification%20Report%20.png))
 
 ## Conclusion
 This project investigates the potential of using EEG signals for mental disorder diagnosis through machine learning. By exploring this approach, we may contribute to the development of more objective and accessible tools for mental health assessment.
