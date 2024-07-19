@@ -16,12 +16,36 @@ Mental disorders affect a significant portion of the population, and accurate di
 * The dataset consists of background information about the patients and the Quantitative values of their EEG.  
 * The dataset is derived from a total of 945 patients.  
 * The disorder features present 7 classes of the disorders the patients are diagnosed with.
- 
+
+## Model Architechture
+
+
 ## Methodology
 
+* Data Acquisition:
+  * The QEEG dataset has been retrieved from osf.io/8bsvr
 
+* Data Preprocessing:
+  * Cleaning and pre-processing the EEG data to remove noise.
+  * Extracting important feature using feature selection.
+  * Normalizing the data.
+  * Over sampling the minority classes in the dataset.
 
+* Model Development:
+  * Choosing the appropriate model.
+  * Training the model on a portion of the data and evaluating its performance on a separate testing set.
 
+* Evaluation and Analysis:
+  * Evaluating the model's performance using metrics like accuracy, precision, recall, and F1-score.
+  * Analyzing the features with the highest importance scores to understand their role in the classification process.
+
+## Results  
+![Alt text](images/)
+
+## Conclusion
+This project investigates the potential of using EOG signals for mental disorder diagnosis through machine learning. By exploring this approach, we may contribute to the development of more objective and accessible tools for mental health assessment.
+
+* Achieved an accuracy of 97.5 and 96.5 with ensemble models LightGBM and Xgboost.
 
 ## Citations: 
-* Dataset Source: 
+* Dataset Source: Park, S. M. (2021, August 16). EEG machine learning. Retrieved from osf.io/8bsvr
