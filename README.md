@@ -18,7 +18,7 @@ Mental disorders affect a significant portion of the population, and accurate di
 * The disorder features present 7 classes of the disorders the patients are diagnosed with.
 
 ## Model Architechture
-
+![Architechture Diagram](https://github.com/Shashank-Pericherla/Leveraging-Machine-Learning-for-Mental-Disorder-Diagnosis/blob/main/Images/Architechture%20diagram.png)
 
 ## Methodology
 
