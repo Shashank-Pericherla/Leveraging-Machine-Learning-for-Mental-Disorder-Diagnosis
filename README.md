@@ -38,14 +38,23 @@ Mental disorders affect a significant portion of the population, and accurate di
 * Evaluation and Analysis:
   * Evaluating the model's performance using metrics like accuracy, precision, recall, and F1-score.
   * Analyzing the features with the highest importance scores to understand their role in the classification process.
+### Flowchart
+![Alt text](https://github.com/Shashank-Pericherla/Leveraging-Machine-Learning-for-Mental-Disorder-Diagnosis/blob/main/Images/Methodology%20Flow%20Chart.png)
 
 ## Results  
-![Alt text](images/)
+
+### LightGBM:
+![Alt text](images/LightGBM Training and Validation Loss Plot.png)
+![Alt text](images/LightGBM Classification Report.png)
+
+### XGboost:
+![Alt text](images/XGBoost Training and Validation Loss Plot.png)
+![Alt text](images/XGBoost Classification Report .png)
 
 ## Conclusion
-This project investigates the potential of using EOG signals for mental disorder diagnosis through machine learning. By exploring this approach, we may contribute to the development of more objective and accessible tools for mental health assessment.
+This project investigates the potential of using EEG signals for mental disorder diagnosis through machine learning. By exploring this approach, we may contribute to the development of more objective and accessible tools for mental health assessment.
 
-* Achieved an accuracy of 97.5 and 96.5 with ensemble models LightGBM and Xgboost.
+
 
 ## Citations: 
 * Dataset Source: Park, S. M. (2021, August 16). EEG machine learning. Retrieved from osf.io/8bsvr
